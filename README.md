@@ -1,4 +1,4 @@
-#Hydra
+# Hydra
 
  Hydra is a proxy system that utilizes and takes advantage of docker. 
  Hydra uses AWS’s EC2 in order to create containers which will run shadow socks(still determining whether or not I will) and after a certain period of time, 
